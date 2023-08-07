@@ -1,6 +1,6 @@
 # Bank Account Management System
 
-This Python code provides a basic level implementation of how a Bank Account Management System. The `Account_Details` class allows users to create a bank account with an initial balance and perform transactions such as deposits and withdrawals.
+This Python code provides a basic level implementation of how a Bank Account Management System works. The `Account_Details` class allows users to create a bank account with an initial balance and perform transactions such as deposits and withdrawals.
 
 ## Features
 
