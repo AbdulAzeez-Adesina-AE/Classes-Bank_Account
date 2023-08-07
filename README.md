@@ -52,13 +52,13 @@ New_balance()
 
 # Instructions
 
-1. **Create an Account:** To create a bank account, use the `Account_Details` class and provide a unique account name and an initial balance.
+1. Create an Account: To create a bank account, use the `Account_Details` class and provide a unique account name and an initial balance.
 
-2. **Deposit Funds:** Use the `savings` method to deposit money into the account. Pass the amount you want to deposit as an argument to the method.
+2. Deposit Funds: Use the `savings` method to deposit money into the account. Pass the amount you want to deposit as an argument to the method.
 
-3. **Withdraw Funds:** Use the `withdrawal` method to withdraw money from the account. Pass the amount you want to withdraw as an argument to the method.
+3. Withdraw Funds: Use the `withdrawal` method to withdraw money from the account. Pass the amount you want to withdraw as an argument to the method.
 
-4. **Check Account Balance:** You can check your current account balance using the `Present_day_details` function to see the initial balance and `New_balance` function to see the balance after transactions.
+4. Check Account Balance: You can check your current account balance using the `Present_day_details` function to see the initial balance and `New_balance` function to see the balance after transactions.
 
 ## Note
 
